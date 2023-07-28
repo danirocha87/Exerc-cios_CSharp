@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\bin\Debug\net6.0\lacosRepeticao2.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\bin\Debug\net6.0\lacosRepeticao2.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\bin\Debug\net6.0\lacosRepeticao2.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\bin\Debug\net6.0\lacosRepeticao2.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\bin\Debug\net6.0\lacosRepeticao2.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\refint\lacosRepeticao2.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\lacosRepeticao2.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\lacosRepeticao2\obj\Debug\net6.0\ref\lacosRepeticao2.dll

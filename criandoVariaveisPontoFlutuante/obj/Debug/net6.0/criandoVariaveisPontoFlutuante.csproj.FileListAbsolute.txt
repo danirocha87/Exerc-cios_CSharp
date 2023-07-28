@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\bin\Debug\net6.0\criandoVariaveisPontoFlutuante.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\bin\Debug\net6.0\criandoVariaveisPontoFlutuante.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\bin\Debug\net6.0\criandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\bin\Debug\net6.0\criandoVariaveisPontoFlutuante.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\bin\Debug\net6.0\criandoVariaveisPontoFlutuante.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\refint\criandoVariaveisPontoFlutuante.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\criandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\criandoVariaveisPontoFlutuante.dll

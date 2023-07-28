@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\bin\Debug\net6.0\atribuicoesDeVariaveis.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\bin\Debug\net6.0\atribuicoesDeVariaveis.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\bin\Debug\net6.0\atribuicoesDeVariaveis.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\bin\Debug\net6.0\atribuicoesDeVariaveis.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\bin\Debug\net6.0\atribuicoesDeVariaveis.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\refint\atribuicoesDeVariaveis.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\atribuicoesDeVariaveis.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\atribuicoesDeVariaveis\obj\Debug\net6.0\ref\atribuicoesDeVariaveis.dll

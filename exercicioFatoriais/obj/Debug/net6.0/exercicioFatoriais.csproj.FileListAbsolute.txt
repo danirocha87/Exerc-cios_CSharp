@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\bin\Debug\net6.0\exercicioFatoriais.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\bin\Debug\net6.0\exercicioFatoriais.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\bin\Debug\net6.0\exercicioFatoriais.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\bin\Debug\net6.0\exercicioFatoriais.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\bin\Debug\net6.0\exercicioFatoriais.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\refint\exercicioFatoriais.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\exercicioFatoriais.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exercicioFatoriais\obj\Debug\net6.0\ref\exercicioFatoriais.dll

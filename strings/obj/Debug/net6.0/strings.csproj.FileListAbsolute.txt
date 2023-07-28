@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\bin\Debug\net6.0\strings.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\bin\Debug\net6.0\strings.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\bin\Debug\net6.0\strings.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\bin\Debug\net6.0\strings.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\bin\Debug\net6.0\strings.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\refint\strings.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\strings.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\strings\obj\Debug\net6.0\ref\strings.dll

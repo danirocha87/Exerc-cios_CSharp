@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\bin\Debug\net6.0\exerciciosLacoDeRepeticao.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\bin\Debug\net6.0\exerciciosLacoDeRepeticao.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\bin\Debug\net6.0\exerciciosLacoDeRepeticao.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\bin\Debug\net6.0\exerciciosLacoDeRepeticao.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\bin\Debug\net6.0\exerciciosLacoDeRepeticao.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\refint\exerciciosLacoDeRepeticao.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\exerciciosLacoDeRepeticao.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\exerciciosLacoDeRepeticao\obj\Debug\net6.0\ref\exerciciosLacoDeRepeticao.dll

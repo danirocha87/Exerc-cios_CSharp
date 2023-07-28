@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\bin\Debug\net6.0\criandoVariaveis.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\bin\Debug\net6.0\criandoVariaveis.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\bin\Debug\net6.0\criandoVariaveis.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\bin\Debug\net6.0\criandoVariaveis.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\bin\Debug\net6.0\criandoVariaveis.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\refint\criandoVariaveis.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\criandoVariaveis.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\criandoVariaveis\obj\Debug\net6.0\ref\criandoVariaveis.dll

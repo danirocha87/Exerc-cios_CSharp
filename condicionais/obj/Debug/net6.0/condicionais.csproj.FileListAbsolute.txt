@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\bin\Debug\net6.0\condicionais.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\bin\Debug\net6.0\condicionais.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\bin\Debug\net6.0\condicionais.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\bin\Debug\net6.0\condicionais.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\bin\Debug\net6.0\condicionais.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\refint\condicionais.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\condicionais.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\condicionais\obj\Debug\net6.0\ref\condicionais.dll

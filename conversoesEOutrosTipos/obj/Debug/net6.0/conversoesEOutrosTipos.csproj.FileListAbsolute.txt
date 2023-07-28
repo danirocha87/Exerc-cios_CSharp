@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\bin\Debug\net6.0\conversoesEOutrosTipos.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\bin\Debug\net6.0\conversoesEOutrosTipos.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\bin\Debug\net6.0\conversoesEOutrosTipos.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\bin\Debug\net6.0\conversoesEOutrosTipos.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\bin\Debug\net6.0\conversoesEOutrosTipos.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\refint\conversoesEOutrosTipos.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\conversoesEOutrosTipos.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\conversoesEOutrosTipos\obj\Debug\net6.0\ref\conversoesEOutrosTipos.dll

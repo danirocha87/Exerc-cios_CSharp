@@ -1,0 +1,15 @@
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.exe
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.deps.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.runtimeconfig.json
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\bin\Debug\net6.0\encadeandoFor.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.csproj.AssemblyReference.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.AssemblyInfoInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.AssemblyInfo.cs
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.csproj.CoreCompileInputs.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\refint\encadeandoFor.dll
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.pdb
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\encadeandoFor.genruntimeconfig.cache
+C:\_fontes\aprendendo_csharp\Aprendendo_CSharp\encadeandoFor\obj\Debug\net6.0\ref\encadeandoFor.dll
